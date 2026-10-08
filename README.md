@@ -24,6 +24,13 @@ I build scalable backend systems, secure APIs, AI automation platforms, retrieva
 - ✅ [Task Scheduler](https://github.com/ashfakmohamed/django-task-scheduler) — private task dashboards and authenticated profiles
 - 📍 [FastAPI Distance API](https://github.com/ashfakmohamed/fastapi-distance-api) — validated geodesic calculations with tests and CI
 
+## Python & AI lab
+
+Every repository below contains a working implementation, automated tests, Ruff checks, and GitHub Actions CI.
+
+- **LLM & NLP:** [Semantic Text Chunker](https://github.com/ashfakmohamed/semantic-text-chunker) · [Prompt Template Validator](https://github.com/ashfakmohamed/prompt-template-validator) · [AI Response Evaluator](https://github.com/ashfakmohamed/ai-response-evaluator) · [Conversation Memory Manager](https://github.com/ashfakmohamed/conversation-memory-manager) · [Vector Similarity Toolkit](https://github.com/ashfakmohamed/vector-similarity-toolkit)
+- **Data & platform:** [Document Deduplication](https://github.com/ashfakmohamed/document-deduplication-engine) · [PII Redaction](https://github.com/ashfakmohamed/pii-redaction-toolkit) · [Dataset Quality Profiler](https://github.com/ashfakmohamed/dataset-quality-profiler) · [LLM Cost Estimator](https://github.com/ashfakmohamed/llm-cost-estimator) · [Feature Flag Engine](https://github.com/ashfakmohamed/feature-flag-engine)
+
 ## Current focus
 
 - Reliable RAG and agentic workflows
