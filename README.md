@@ -15,10 +15,10 @@ I build scalable backend systems, secure APIs, AI automation platforms, retrieva
 ## Featured work
 
 - 🌐 [Portfolio](https://ashfakmohamed.github.io/port_folio/) — selected backend, GenAI, automation, and full-stack work
-- 🔐 [App Management API](https://github.com/ashfakmohamed/auth) — secure Django application and task-review workflow
-- 📡 [Data Pusher API](https://github.com/ashfakmohamed/project_account) — authenticated webhook forwarding with destination controls
-- ✍️ [Django Blog](https://github.com/ashfakmohamed/my_blog) — publishing platform with ownership controls and CI
-- ✅ [Task Scheduler](https://github.com/ashfakmohamed/gsa_task) — private task dashboards and authenticated profiles
+- 🔐 [App Management API](https://github.com/ashfakmohamed/django-app-management-api) — secure Django application and task-review workflow
+- 📡 [Data Pusher API](https://github.com/ashfakmohamed/django-data-pusher-api) — authenticated webhook forwarding with destination controls
+- ✍️ [Django Blog](https://github.com/ashfakmohamed/django-blog) — publishing platform with ownership controls and CI
+- ✅ [Task Scheduler](https://github.com/ashfakmohamed/django-task-scheduler) — private task dashboards and authenticated profiles
 
 ## Current focus
 
