@@ -15,7 +15,8 @@ I build scalable backend systems, secure APIs, AI automation platforms, retrieva
 ## Featured work
 
 - 🧠 [RAG Knowledge API](https://github.com/ashfakmohamed/rag-knowledge-api) — grounded retrieval, citations, provider-compatible generation, evaluation, Docker, and CI
-
+- 🎙️ [Voice Agent Orchestrator](https://github.com/ashfakmohamed/voice-agent-orchestrator) — multi-turn intent routing, slot collection, escalation, audit events, tests, Docker, and CI
+- 🧾 [Invoice Automation API](https://github.com/ashfakmohamed/invoice-automation-api) — validation, duplicate detection, explainable risk scoring, routing, metrics, and CI
 - 🌐 [Portfolio](https://ashfakmohamed.github.io/port_folio/) — selected backend, GenAI, automation, and full-stack work
 - 🔐 [App Management API](https://github.com/ashfakmohamed/django-app-management-api) — secure Django application and task-review workflow
 - 📡 [Data Pusher API](https://github.com/ashfakmohamed/django-data-pusher-api) — authenticated webhook forwarding with destination controls
