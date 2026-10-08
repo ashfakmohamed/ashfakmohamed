@@ -19,6 +19,7 @@ I build scalable backend systems, secure APIs, AI automation platforms, retrieva
 - 📡 [Data Pusher API](https://github.com/ashfakmohamed/django-data-pusher-api) — authenticated webhook forwarding with destination controls
 - ✍️ [Django Blog](https://github.com/ashfakmohamed/django-blog) — publishing platform with ownership controls and CI
 - ✅ [Task Scheduler](https://github.com/ashfakmohamed/django-task-scheduler) — private task dashboards and authenticated profiles
+- 📍 [FastAPI Distance API](https://github.com/ashfakmohamed/fastapi-distance-api) — validated geodesic calculations with tests and CI
 
 ## Current focus
 
