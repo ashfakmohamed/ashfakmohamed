@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Ashfak 👋
 
-**Backend Engineer & Gen AI Developer** based in Chennai, India.
+**Backend Engineer & Gen AI Developer**
 
 I build scalable backend systems, secure APIs, AI automation platforms, retrieval-augmented generation systems, and real-time voice applications.
 
